@@ -10,7 +10,7 @@ print(names)
 
 # remove(x) -> removes x, raises an error if missing
 names2 ={"Kesh", "Daniel", "Uche", "Achilihu", "David", "Kesh", "Daniel"}
-# names22 = names2.remove("Oluwa")
+names22 = names2.remove("Oluwa")
 print(names2)
 
 
